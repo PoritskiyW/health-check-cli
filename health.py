@@ -57,9 +57,7 @@ def main_cycle(urls, names):
       iterator = 0
     else: 
       iterator = iterator + 1
-
-    time.sleep(10);
-    # time.sleep(60 * 10)
+    time.sleep(60 * 10)
 
 
 @click.command()
