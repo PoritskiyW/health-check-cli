@@ -6,6 +6,7 @@ setup(
   install_requires=[
     'click',
     'requests',
+    'datetime',
   ],
   version='0.0.1',
   entry_points='''
